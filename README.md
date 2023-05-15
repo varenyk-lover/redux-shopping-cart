@@ -1,6 +1,6 @@
 ## Redux Shopping Cart
 
-Example shopping cart application for learning redux toolkit and typescript.
+Example shopping cart React application for learning Redux Toolkit and TypeScript.
 
 ## Setup
 
